@@ -9,4 +9,6 @@ Data analysis of various financial datasets and applying numerous ML models with
 - Clustering (K-Means, Gaussian Mixture Models, Hierarchical Clustering Algorithm, DBSCAN)
 - Neural Networks (Forward Feed Neural Network)
 
+`Note`: These Jupyter Notebooks are created with [Google Colab](https://colab.research.google.com/).
+
 This repository represents group project work for course in `Machine Learning` for advanced degree [Masters in Computational Finance, Union University](http://mcf.raf.edu.rs/).
